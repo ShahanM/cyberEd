@@ -1,3 +1,4 @@
+[CyberEd Logo](./imgs/AiCyberEd-logo-trans.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ShahanM/cyberEd/edit/project_site/README.md) to maintain and preview the content for your website in Markdown files.
