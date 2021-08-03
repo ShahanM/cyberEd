@@ -1,3 +1,5 @@
+![CyberEd Logo](https://user-images.githubusercontent.com/1113522/128060001-5c053cf8-d923-44d4-be50-112578b2e2f5.png)
+
 ![CyberEd Logo](./imgs/AiCyberEd-logo-trans.png)
 ## Welcome to GitHub Pages
 
